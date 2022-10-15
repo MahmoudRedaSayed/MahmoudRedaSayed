@@ -16,7 +16,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/mahmoud reda sayed abdelaziz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mahmoud reda sayed abdelaziz" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mahmoud reda sayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mahmoud reda sayed" height="30" width="40" /></a>
 <a href="https://fb.com/mahmoud reda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mahmoud reda" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/ma7moud_reda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="ma7moud_reda" height="30" width="40" /></a>
