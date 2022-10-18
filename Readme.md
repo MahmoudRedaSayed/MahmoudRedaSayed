@@ -27,8 +27,14 @@
     flex-wrap: wrap;gap:5px">
 <p style="margin-bottom:10px"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mahmoudredasayed&show_icons=true&locale=en&layout=compact" alt="mahmoudredasayed" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mahmoudredasayed&show_icons=true&locale=en" alt="mahmoudredasayed" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudredasayed&" alt="MahmoudRedaSayed" /></p>
+
+</p>
+</div>
+<br>
+
+![GitHub Activity Graph](https://github-readme-stats.vercel.app/api?username=mahmoudredasayed&show_icons=true&locale=en)  
+![GitHub Activity Graph](https://github-readme-streak-stats.herokuapp.com/?user=mahmoudredasayed&)  
+
 </div>
 
 <br>
