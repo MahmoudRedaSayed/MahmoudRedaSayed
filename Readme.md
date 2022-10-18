@@ -31,4 +31,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mahmoudredasayed&" alt="MahmoudRedaSayed" /></p>
 </div>
 
+<br>
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=MahmoudRedaSayed)  
+
+</div>
+
 
