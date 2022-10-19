@@ -28,10 +28,12 @@
 
 
 </p>
-</div>
+</div align="center" style="display:flex;justify-content: center;">
 <br>
 
 ![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudredasayed&langs_count=9&theme=tokyonight&layout=compact)
+<br>
+
 ![GitHub Activity Graph](https://github-readme-stats.vercel.app/api?username=mahmoudredasayed&theme=tokyonight&show_icons=true&locale=en)  
 ![GitHub Activity Graph](https://github-readme-streak-stats.herokuapp.com/?theme=tokyonight&user=mahmoudredasayed&)  
 
