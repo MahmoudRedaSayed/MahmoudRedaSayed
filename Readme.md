@@ -31,6 +31,7 @@
 </p>
 </div>
 <br>
+
 ![GitHub Activity Graph](https://github-readme-stats.vercel.app/api?username=mahmoudredasayed&show_icons=true&locale=en)  
 ![GitHub Activity Graph](https://github-readme-streak-stats.herokuapp.com/?user=mahmoudredasayed&)  
 
