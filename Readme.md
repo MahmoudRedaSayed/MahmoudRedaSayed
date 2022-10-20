@@ -31,7 +31,7 @@
 </div align="center" style="display:flex;justify-content: center;">
 <br>
 
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudredasayed&langs_count=9&theme=tokyonight&layout=compact)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=mahmoudredasayed&langs_count=10&theme=tokyonight&layout=compact)
 <br>
 
 ![GitHub Activity Graph](https://github-readme-stats.vercel.app/api?username=mahmoudredasayed&theme=tokyonight&show_icons=true&locale=en)  
