@@ -10,7 +10,6 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mahmoudredasayed" alt="mahmoudredasayed" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/mahmoud reda sayed abdelaziz" target="blank"><img src="https://img.shields.io/twitter/follow/mahmoud reda sayed abdelaziz?logo=twitter&style=for-the-badge" alt="mahmoud reda sayed abdelaziz" /></a> </p>
 
 - 📫 How to reach me **mahmoudredasayed997**
 
