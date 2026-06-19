@@ -68,41 +68,6 @@ I enjoy designing clean architectures, optimizing databases, and collaborating a
 
 ---
 
-## Experience
-
-| Role | Company | Period |
-|------|---------|--------|
-| Senior Backend Developer | **PaySky** | Oct 2025 – Present |
-| Senior Backend Developer (Part-Time) | **Proupto** | Jun 2025 – Feb 2026 |
-| Backend Developer | **My Cash** | Sep 2024 – Oct 2025 |
-| Backend Developer | **Apes Solutions** | Feb 2024 – Aug 2024 |
-| Full Stack Developer | **Afaq** (Saudi Arabia) | Aug 2023 – Jun 2024 |
-| Freelance Full Stack Developer | Self-employed | Oct 2022 – Present |
-
----
-
-## Featured Projects
-
-| Project | Description | Stack |
-|---------|-------------|-------|
-| [**Meet Strangers**](https://github.com/MahmoudRedaSayed/Meet-Strangers) | WebRTC video calling application | Node.js · Socket.IO · WebRTC |
-| [**WhatsApp Clone**](https://github.com/MahmoudRedaSayed/WhatsApp-Clone) | Real-time messaging platform | React · Firebase |
-| [**Hackr.io**](https://github.com/MahmoudRedaSayed/Hackr.io) | Learning resources sharing platform | Next.js · Node.js · MongoDB · AWS |
-| [**K3M Search Engine**](https://github.com/MahmoudRedaSayed/Search-Engine) | Crawler-based search engine | Java · MySQL |
-| **VFP Library** | Video frame prediction — Graduation Project | Python · Deep Learning · PyPI |
-| [**RedditX Testing**](https://github.com/MahmoudRedaSayed/RedditX-Testing) | Automated testing suite | Cypress · Appium |
-
----
-
-## Highlights
-
-- 🏆 **First Place** — 6th Undergraduate Engineering Mathematics Research Forum (Dec 2021)
-- 🎓 **Red Hat System Administration** — ITI (Feb 2022)
-- 🧪 **Mobile Testing with Appium** — Test Automation Platform (Sep 2022)
-- 💻 **ACM Local Programming Contests** — Participant (Aug 2022)
-
----
-
 ## GitHub Stats
 
 <div align="center">
